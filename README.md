@@ -1,6 +1,10 @@
 # 🌀 About Me:
 
-Data & Software Engineering graduate from Universidad de San Buenaventura. I build predictive and statistical models using Python, SQL, Scikit-learn, and TensorFlow, applied to data extraction, transformation, and data quality validation. During my internship at Bancolombia I contributed to customer segmentation and strategic decision-making through data analysis in a real corporate environment. Currently enrolled in the Post Graduate Program in **AI & Machine Learning: Business Applications** at The University of Texas at Austin (McCombs School of Business), with training in classical ML, Deep Learning, NLP and Transformers — currently advancing into Computer Vision, RAG, and model deployment. Results-driven, experienced collaborating in remote teams, and committed to documentation and development best practices.
+Data & Software Engineer from Universidad de San Buenaventura, with a Post Graduate Program in AI & Machine Learning: Business Applications at The University of Texas at Austin (McCombs School of Business), about to be completed.
+
+My profile spans the full data lifecycle: from building and automating ETL processes and pipelines, to developing and deploying Machine Learning and AI models that generate business value. I work with Python, SQL, and Git as my technical core, along with Scikit-learn, TensorFlow, classical ML, Deep Learning, NLP, Transformers, LLMs, RAG, and prompt engineering. I also work with REST APIs, HTTP methods, and JSON for service integration and orchestration.
+
+In the financial sector I designed data extraction, transformation, and analysis processes that support strategic decisions, aligned with corporate quality and security standards. I stand out for translating business needs into clear, documented, and useful technical solutions for multidisciplinary teams, along with strong self-management, continuous learning, and collaborative teamwork.
 
 
 ## 🌐 Socials:
